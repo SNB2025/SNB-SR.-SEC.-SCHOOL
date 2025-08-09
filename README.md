@@ -15,6 +15,10 @@ Event Calendar – Stay updated on school activities and holidays
 
 Communication Hub – Direct messaging between teachers, parents, and students
 
+SCREENSHOTS:
+
+![Image Alt](https://github.com/SNB2025/SNB-SR.-SEC.-SCHOOL/blob/299c6ee44d7ececbf6361626d2e67edfaa3101cd/photo_11_2025-08-09_11-18-05.jpg)
+
 🛠 Tech Stack:
 
 Frontend: React / Flutter
