@@ -19,6 +19,18 @@ SCREENSHOTS:
 
 ![Image Alt](https://github.com/SNB2025/SNB-SR.-SEC.-SCHOOL/blob/299c6ee44d7ececbf6361626d2e67edfaa3101cd/photo_11_2025-08-09_11-18-05.jpg)
 
+![Image Alt](https://github.com/SNB2025/SNB-SR.-SEC.-SCHOOL/blob/58bbfed6a3732c16146782e8441d2703934c1215/photo_13_2025-08-09_11-18-05.jpg)
+
+![Image Alt](https://github.com/SNB2025/SNB-SR.-SEC.-SCHOOL/blob/58bbfed6a3732c16146782e8441d2703934c1215/photo_1_2025-08-09_11-18-05.jpg)
+
+![Image Alt](https://github.com/SNB2025/SNB-SR.-SEC.-SCHOOL/blob/58bbfed6a3732c16146782e8441d2703934c1215/photo_3_2025-08-09_11-18-05.jpg)
+
+![Image Alt](https://github.com/SNB2025/SNB-SR.-SEC.-SCHOOL/blob/58bbfed6a3732c16146782e8441d2703934c1215/photo_5_2025-08-09_11-18-05.jpg)
+
+![Image Alt](https://github.com/SNB2025/SNB-SR.-SEC.-SCHOOL/blob/58bbfed6a3732c16146782e8441d2703934c1215/photo_7_2025-08-09_11-18-05.jpg)
+
+![Image Alt](https://github.com/SNB2025/SNB-SR.-SEC.-SCHOOL/blob/58bbfed6a3732c16146782e8441d2703934c1215/photo_9_2025-08-09_11-18-05.jpg)
+
 🛠 Tech Stack:
 
 Frontend: React / Flutter
